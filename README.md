@@ -1,11 +1,11 @@
 
 <h1 align="center">
-  <img  src=".github/logo.png" width="420px" />
+  <img  src="./assets/tela.png" width="800px" />
 </h1>
 
 
 <h1 align="center">
-  <img  src=".github/view.gif" width="1200px" height="720px" />
+  <img  src="./assets/a03da6c1-6c70-4457-bde1-6ba30db1f65d.mp4" width="1200px" height="720px" />
 </h1>
 
 
