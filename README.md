@@ -22,3 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Tela de login onde se é possivel trocar a cor de fundo e dos botoes.
 
+## 🔖 Layout
+Você pode visualizar o projeto  através [desse link](https://color-switch-animated-login-page.vercel.app/).
+
+
+
